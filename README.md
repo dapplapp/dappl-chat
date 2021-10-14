@@ -1,4 +1,4 @@
-# GUN Chat Dapp Demo
+# Dappl Chat Dapp Demo
 
 A decentralized chat app built with [GUN](https://gun.eco/). 
 
