@@ -1,5 +1,4 @@
-# dappl-chat by PPLSWG
-(demo)
+# dappl-chat
 
   A decentralized chat app built with [GUN](https://gun.eco/).
 
